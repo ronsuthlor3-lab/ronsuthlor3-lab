@@ -16,12 +16,13 @@ Everything runs in your browser — **your files are never uploaded**. Thai + En
 | **[Inkseal Scanner](https://github.com/ronsuthlor3-lab/inkseal-scanner)** | Browser extension that spots your hidden creator ID on web pages<br>ส่วนเสริมเบราว์เซอร์ ช่วยเจอรูปที่มีรหัสผู้สร้างของคุณ | [Install guide](https://github.com/ronsuthlor3-lab/inkseal-scanner#readme) |
 | **[Inkcloak](https://github.com/ronsuthlor3-lab/inkcloak)** 🧪 | *Experimental, unproven* perturbation against AI style mimicry — not a substitute for Glaze/Nightshade<br>*รุ่นทดลอง ยังไม่พิสูจน์ผล* | [▶ Open](https://ronsuthlor3-lab.github.io/inkcloak/) |
 
-## 💼 Run your art business · จัดการงานศิลปิน
+## 💼 Practise & run your art business · ฝึกฝนและจัดการงาน
 
 | Tool | What it does | |
 |---|---|---|
 | **[ArtQueue](https://github.com/ronsuthlor3-lab/artqueue)** | Commission queue, price calculator, quotations with PromptPay QR<br>คิวงานคอมมิชชัน คิดราคา ใบเสนอราคาพร้อม QR พร้อมเพย์ | [▶ Open](https://ronsuthlor3-lab.github.io/artqueue/) |
 | **[Inkfolio](https://github.com/ronsuthlor3-lab/inkfolio)** | Turn your artwork into a portfolio website, no code<br>สร้างเว็บพอร์ตโฟลิโอจากรูปผลงาน ไม่ต้องเขียนโค้ด | [▶ Open](https://ronsuthlor3-lab.github.io/inkfolio/) |
+| **[QuickPose](https://github.com/ronsuthlor3-lab/quickpose)** | Gesture-drawing practice timer with your own references<br>ตัวจับเวลาฝึกวาดท่าทาง ใช้รูปอ้างอิงของคุณเอง | [▶ Open](https://ronsuthlor3-lab.github.io/quickpose/) |
 
 ## 🔎 Spot fakes · จับของปลอม
 
